@@ -11,7 +11,7 @@ When creating a new budget, there are three options: Plan Budget, Overview, and 
 with a list of entered expenses displayed.
 
 Additionally, you can add a goal to your budget. If you choose not to remove a goal, you can return to the previous menu. **PLEASE NOTE: It's important to save your budget to a file after adjustments, as unsaved changes won't be stored.** 
-Once you have saved your budget, you can return to the main menu to exit. However, if you would like to see an overview of your budget beforehand, * must return to the Budget Options menu and navigate into “Overview”.
+Once you have saved your budget, you can return to the main menu to exit. However, if you would like to see an overview of your budget beforehand, you must return to the Budget Options menu and navigate into “Overview”.
 This overview includes your entered income, total calculated remaining balance, and budget contents. To exit from here, you can return to the main menu, and choose “Exit Program” option. 
 
 When you have a saved budget, you can view the saved file if you would like in the Main Menu. You can do this under "View an existing budget". To view this existing file you can enter the budget name **WITHOUT** the .txt extension. 
