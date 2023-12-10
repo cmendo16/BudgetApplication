@@ -23,26 +23,26 @@ public class BudgetApp {
 
 	  private static BudgetApp instance; // singleton instance of BudgetApp
 	 
-	    private Overview overview; // instance variable for Overview
-	    private PlanBudget plan; // instance variable for PlanBudget
+	  private Overview overview; // instance variable for Overview
+	  private PlanBudget plan; // instance variable for PlanBudget
 	    
-		/*
-		 * private constructor
-		 */
-	    private BudgetApp() {
-	        // Initializing Overview and PlanBudget classes 
-	        overview = new Overview();
-	        plan = new PlanBudget();
+	   /*
+	   * private constructor
+	   */
+	   private BudgetApp() {
+	     // Initializing Overview and PlanBudget classes 
+	     overview = new Overview();
+	     plan = new PlanBudget();
 	       
-	    }
+	   }
 
-	    // Public static method to get the instance
-	    public static BudgetApp getInstance() {
-	        if (instance == null) {
-	            instance = new BudgetApp();
-	        }
-	        return instance;
-	    }
+	   // Public static method to get the instance
+	   public static BudgetApp getInstance() {
+	     if (instance == null) {
+	     instance = new BudgetApp();
+	   }
+	     return instance;
+	}
  
     /*
      * the MainMenu() displays options that the user can choose from at the beginning of the program. It allows the user to either create a new budget, edit an existing budget, or exit program. 
