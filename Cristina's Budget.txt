@@ -1,0 +1,30 @@
+Income: 750.88
+Expenses: 
+  Name: Rent
+  Amount: 400.0
+  Category: Housing
+  Name: Michael's 
+  Amount: 55.68
+  Category: Other
+  Name: Phone Bill
+  Amount: 35.0
+  Category: Utilities
+  Name: Braces payment
+  Amount: 115.67
+  Category: Other
+  Name: Gas
+  Amount: 30.87
+  Category: Other
+Current Categories
+  Name: Housing
+  Name: Transportation
+  Name: Groceries
+  Name: Utilities
+  Name: Entertainment
+Current Goals
+ Name: New Car
+ Target Amount: 10000.0
+ Saved Amount: 1000.0
+ Name: New Shoes
+ Target Amount: 100.0
+ Saved Amount: 56.0
