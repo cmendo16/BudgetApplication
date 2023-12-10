@@ -179,7 +179,7 @@ public class BudgetApp {
     	} 
     	
     	/*
-    	 * the edit Budget option allows the user to view and edit a specific details of the budget. 
+    	 * the viewBudget method allows users to view the contents of a saved budget file
     	 */
     	public void viewBudget() { 
     		Scanner scanner = new Scanner(System.in);
