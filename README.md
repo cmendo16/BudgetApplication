@@ -5,8 +5,8 @@ This console-based program is designed for simplicity, offering clear instructio
 The program comprises several classes, including Budget, Expense, the abstract Transaction class, and Category. It starts in the BudgetApp class, which functions as a singleton with access to other classes like PlanBudget and Overview. 
 Upon launching the program, a "Main Menu" is displayed, presenting two options: 
 1. Create a new budget or
-2.  View an existing budget. 
-The ZIP file provided contains a sample budget file, which includes Income, a list of expenses, categories, and goals, but excludes any calculations like total remaining balance.
+2.  View an existing budget.
+In the ZIP file (if opening program from there) contains a sample budget file (Cristina's Budget.txt), which includes Income, a list of expenses, categories, and goals, but excludes any calculations like total remaining balance.
 
 When creating a new budget, there are three options: Plan Budget, Overview, and Exit Program. Starting with Plan Budget, you're guided to a section where you can add expenses, add a goal, or remove a goal (optional). After adding expenses, there's an option to remove an expense,
 with a list of entered expenses displayed.
